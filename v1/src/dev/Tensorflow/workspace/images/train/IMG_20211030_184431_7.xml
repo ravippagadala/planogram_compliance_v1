@@ -1,0 +1,27 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20211030_184431_7.jpg</filename>
+	<path>C:\Users\Admin\Documents\masters-project\src\dev\Tensorflow\workspace\images\train\IMG_20211030_184416.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+<name>sevenup</name>
+<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<xmin>925</xmin>
+<ymin>2056</ymin>
+<xmax>1219</xmax>
+<ymax>2550</ymax>
+
+</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20211030_184814_3.jpg</filename>
+	<path>C:\Users\Admin\Documents\masters-project\src\dev\Tensorflow\workspace\images\train\IMG_20211030_184416.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+<name>pepsi</name>
+<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<xmin>2381</xmin>
+<ymin>662</ymin>
+<xmax>2644</xmax>
+<ymax>1137</ymax>
+
+</bndbox>
+	</object>
+</annotation>
